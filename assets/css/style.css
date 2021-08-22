@@ -73,3 +73,6 @@ footer {background: #fce138; width: 100%; padding: 40px 35px;}
 .text-left {text-align: left;}
 
 .text-right {text-align: right;}
+
+.contact {text-align: center; background:#024e76;}
+  .contact h2 {color: #fce138}
